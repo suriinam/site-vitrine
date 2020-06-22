@@ -1,0 +1,25 @@
+{
+  "name": "site-vitrine",
+  "version": "1.0.0",
+  "description": "Hopefully a reusable template for a \"site vitrine\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suriinam/site-vitrine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suriinam/site-vitrine/issues"
+  },
+  "homepage": "https://github.com/suriinam/site-vitrine#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
